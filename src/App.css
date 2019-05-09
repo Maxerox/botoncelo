@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-header img {
+  width: 40px;
+  margin-left: 20px;
+}
+
+.sound-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  max-width: 1024px;
+  margin: 30px auto;
+}
+
+.sound-box {
+  color: #CCC;
+  font-weight: bold;
+  flex: 1 0 35%;
+  margin-bottom: 20px;
+}
+
+.sound-box audio {
+ display: none;
+}
+
+.sound-button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  outline: none;
+  background: #ff8181;
+  color: #FFF;
+  width: 120px;
+  height: 120px;
+  line-height: 120px;
+  border-radius: 50%;
+  text-align: center;
+  font-weight: bold;
+  vertical-align: middle;
+  overflow: hidden;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+  border-bottom: solid 3px #bd6565;
+  transition: .2s;
+  border: none;
+}
+
+.sound-button:active {
+  transform: translateY(2px);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.15);
+    border-bottom: none;
+    background-color: #9b2e2e;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+.App-link {
+  color: #61dafb;
+}
