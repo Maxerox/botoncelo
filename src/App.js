@@ -11,7 +11,7 @@ const sounds = [
   { src: './sounds/enamorar.ogg', title: 'Enamorado' },
   { src: './sounds/manga-de-pajeros.mp3', title: 'Manga de pajeros...' },
   { src: './sounds/sisisi.mp3', title: 'Si si si' },
-  { src: './sounds/pija.mp3', title: 'Pija' },
+  { src: './sounds/pija.ogg', title: 'Pija' },
   { src: './sounds/te-la-puso.mp3', title: 'Te la puso' },
   { src: './sounds/az-querido.opus', title: 'Az querido!', extra: true },
 ]
