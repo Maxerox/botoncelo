@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/botoncelo/precache-manifest.d44720f215f0741a8964be0476d7f4b3.js"
+  "/botoncelo/precache-manifest.0dfcd2ffa03c70159d51e1386e9f74cc.js"
 );
 
 self.addEventListener('message', (event) => {

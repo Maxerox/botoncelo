@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39f4556999c8c5238ad7a842798d88ef",
+    "revision": "5590b8cb0e7469840ac88afbfe371b58",
     "url": "/botoncelo/index.html"
   },
   {
-    "revision": "91c5e61e423b26a80589",
+    "revision": "e2092f27cd073da4c5bf",
     "url": "/botoncelo/static/css/main.770e5256.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/botoncelo/static/js/2.65aa1cca.chunk.js"
   },
   {
-    "revision": "91c5e61e423b26a80589",
-    "url": "/botoncelo/static/js/main.be42727c.chunk.js"
+    "revision": "e2092f27cd073da4c5bf",
+    "url": "/botoncelo/static/js/main.b1d12b03.chunk.js"
   },
   {
     "revision": "15a732fe31680683ce50",
