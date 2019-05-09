@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.59432b7a.chunk.css",
-    "main.js": "/static/js/main.b11cc41f.chunk.js",
-    "main.js.map": "/static/js/main.b11cc41f.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.29687913fd8a489568a28dcbc07c1659.js": "/precache-manifest.29687913fd8a489568a28dcbc07c1659.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.59432b7a.chunk.css.map": "/static/css/main.59432b7a.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-    "static/media/marce.png": "/static/media/marce.b2b90410.png"
+    "main.css": "/botoncelo/static/css/main.59432b7a.chunk.css",
+    "main.js": "/botoncelo/static/js/main.29cc4b46.chunk.js",
+    "main.js.map": "/botoncelo/static/js/main.29cc4b46.chunk.js.map",
+    "runtime~main.js": "/botoncelo/static/js/runtime~main.7f357843.js",
+    "runtime~main.js.map": "/botoncelo/static/js/runtime~main.7f357843.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/botoncelo/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/botoncelo/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/botoncelo/index.html",
+    "precache-manifest.a1c59c714f642134caab86b7236e71cf.js": "/botoncelo/precache-manifest.a1c59c714f642134caab86b7236e71cf.js",
+    "service-worker.js": "/botoncelo/service-worker.js",
+    "static/css/main.59432b7a.chunk.css.map": "/botoncelo/static/css/main.59432b7a.chunk.css.map",
+    "static/media/logo.svg": "/botoncelo/static/media/logo.5d5d9eef.svg",
+    "static/media/marce.png": "/botoncelo/static/media/marce.b2b90410.png"
   }
 }
