@@ -8,6 +8,12 @@ const sounds = [
   { src: './sounds/mechupa.mp3', title: 'Me chupa...' },
   { src: './sounds/pingo.mp3', title: 'Pingo' },
   { src: './sounds/sos-bastante-puto.mp3', title: 'Sos bastante...' },
+  { src: './sounds/enamorar.ogg', title: 'Enamorado' },
+  { src: './sounds/manga-de-pajeros.mp3', title: 'Manga de pajeros...' },
+  { src: './sounds/sisisi.mp3', title: 'Si si si' },
+  { src: './sounds/pija.mp3', title: 'Pija' },
+  { src: './sounds/te-la-puso.mp3', title: 'Te la puso' },
+  { src: './sounds/az-querido.opus', title: 'Az querido!', extra: true },
 ]
 
 
@@ -28,6 +34,7 @@ function App() {
 class SoundButton extends React.Component {
 
   handleMouseDown() {
+    this.sound.currentTime = 0;
     this.sound.play();
   }
 
