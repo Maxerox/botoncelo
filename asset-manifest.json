@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/botoncelo/static/css/main.59432b7a.chunk.css",
-    "main.js": "/botoncelo/static/js/main.29cc4b46.chunk.js",
-    "main.js.map": "/botoncelo/static/js/main.29cc4b46.chunk.js.map",
+    "main.css": "/botoncelo/static/css/main.770e5256.chunk.css",
+    "main.js": "/botoncelo/static/js/main.be42727c.chunk.js",
+    "main.js.map": "/botoncelo/static/js/main.be42727c.chunk.js.map",
     "runtime~main.js": "/botoncelo/static/js/runtime~main.7f357843.js",
     "runtime~main.js.map": "/botoncelo/static/js/runtime~main.7f357843.js.map",
     "static/js/2.65aa1cca.chunk.js": "/botoncelo/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/botoncelo/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/botoncelo/index.html",
-    "precache-manifest.a1c59c714f642134caab86b7236e71cf.js": "/botoncelo/precache-manifest.a1c59c714f642134caab86b7236e71cf.js",
+    "precache-manifest.d44720f215f0741a8964be0476d7f4b3.js": "/botoncelo/precache-manifest.d44720f215f0741a8964be0476d7f4b3.js",
     "service-worker.js": "/botoncelo/service-worker.js",
-    "static/css/main.59432b7a.chunk.css.map": "/botoncelo/static/css/main.59432b7a.chunk.css.map",
+    "static/css/main.770e5256.chunk.css.map": "/botoncelo/static/css/main.770e5256.chunk.css.map",
     "static/media/logo.svg": "/botoncelo/static/media/logo.5d5d9eef.svg",
     "static/media/marce.png": "/botoncelo/static/media/marce.b2b90410.png"
   }
