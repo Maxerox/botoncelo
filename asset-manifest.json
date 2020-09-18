@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/botoncelo/static/css/main.770e5256.chunk.css",
-    "main.js": "/botoncelo/static/js/main.b1d12b03.chunk.js",
-    "main.js.map": "/botoncelo/static/js/main.b1d12b03.chunk.js.map",
+    "main.css": "/botoncelo/static/css/main.2978b77e.chunk.css",
+    "main.js": "/botoncelo/static/js/main.a1dd6038.chunk.js",
+    "main.js.map": "/botoncelo/static/js/main.a1dd6038.chunk.js.map",
     "runtime~main.js": "/botoncelo/static/js/runtime~main.7f357843.js",
     "runtime~main.js.map": "/botoncelo/static/js/runtime~main.7f357843.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/botoncelo/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/botoncelo/static/js/2.65aa1cca.chunk.js.map",
+    "static/js/2.ede10acd.chunk.js": "/botoncelo/static/js/2.ede10acd.chunk.js",
+    "static/js/2.ede10acd.chunk.js.map": "/botoncelo/static/js/2.ede10acd.chunk.js.map",
     "index.html": "/botoncelo/index.html",
-    "precache-manifest.0dfcd2ffa03c70159d51e1386e9f74cc.js": "/botoncelo/precache-manifest.0dfcd2ffa03c70159d51e1386e9f74cc.js",
+    "precache-manifest.ea0a67f60b18909674a2c8aec3e3cdb3.js": "/botoncelo/precache-manifest.ea0a67f60b18909674a2c8aec3e3cdb3.js",
     "service-worker.js": "/botoncelo/service-worker.js",
-    "static/css/main.770e5256.chunk.css.map": "/botoncelo/static/css/main.770e5256.chunk.css.map",
-    "static/media/logo.svg": "/botoncelo/static/media/logo.5d5d9eef.svg",
-    "static/media/marce.png": "/botoncelo/static/media/marce.b2b90410.png"
+    "static/css/main.2978b77e.chunk.css.map": "/botoncelo/static/css/main.2978b77e.chunk.css.map",
+    "static/media/marce.png": "/botoncelo/static/media/marce.b2b90410.png",
+    "static/media/share.svg": "/botoncelo/static/media/share.48aa7a1c.svg"
   }
 }
